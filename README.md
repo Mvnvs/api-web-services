@@ -12,8 +12,7 @@ npm (version 6 or higher)
 Docker (optional, for deployment with Docker Compose)
 
 Clone the repository
-bash
-Copy code
+
 git clone https://github.com/Mvnvs/api-web-services
 
 Install dependencies
